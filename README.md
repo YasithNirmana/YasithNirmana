@@ -17,7 +17,7 @@
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning Business Administration
-- 💼 My protfolio available at **https://yasithnirmana.github.io/dev-yasith/**
+- 💼 My protfolio available at **https://yasithnirmana.github.io/portfolio/**
 - 👯 I’m looking to collaborate on web development projects for companies.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
